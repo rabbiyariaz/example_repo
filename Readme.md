@@ -1,2 +1,2 @@
-# Hello World
+# Hello world,
 This is basics of git learning.
